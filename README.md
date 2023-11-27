@@ -1,1 +1,1 @@
-# Kaggle-Titanic
+# Titanic Kaggle Challenge
